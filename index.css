@@ -80,7 +80,7 @@ label {
 }
 
 #ck2 + label {
-  right: 10vmin;
+  right: 0vmin;
 }
 
 #ck1:checked + label,
@@ -95,7 +95,7 @@ label {
 }
 
 #ck3 + label {
-  bottom: 5vmin; left: 35%;
+  bottom: 5vmin; left: 40%;
   margin: 0 -9vmin;
   background-color: white;
 }
